@@ -7,3 +7,5 @@ There is a search function that saves to a local disc so a user can go back and 
 Once searched, the user can display current weather from any city and also display a 5 day forecast showcasing temperature and humidity for the area plus icons as well. 
 Managed to create this templeate using help from fellow collegues and some tutor time, despite not being able to display my page clean enough. 
 
+link to github : https://github.com/cfuer12/weatherDash
+link to deployed site : https://cfuer12.github.io/weatherDash/
