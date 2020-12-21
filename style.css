@@ -1,0 +1,105 @@
+body {
+    background-color: #e6e0d0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.container {
+    background-color:  #e6e0d0;
+}
+
+.jumbotron {    
+    padding: 10px;    
+    margin-bottom: 2rem;    
+    background-color: #e6e0d0;    
+    border-radius: .3rem;      
+}
+
+h1{
+    color: #f9f5f2;
+    background-color:#956d2e;
+    text-align: center;
+    box-shadow: 2px 6px #0e171d; 
+    border-width:100%;
+    height: 50px;
+}
+
+h3 {
+    font-weight: bold;
+    text-align: center;
+}
+
+#lookUp {
+    float: left;
+    text-align: center;
+    font-size: small;
+    width:100%;
+    height: 120px;
+    box-shadow: 2px 6px #0e171d;
+    border: 1px solid #956d2e;
+    background-color: #e6e0d0;
+}
+
+#search {
+    border-radius: 10px;
+}
+
+.control {
+    border-radius: 10px;
+}
+
+#current {
+    float: right;
+    width: 50%;
+    height: 300px;
+    border:1px solid #956d2e;
+    box-shadow: 5px 10px #0e171d;
+}
+
+#forecast {
+    border: 1px solid #956d2e;
+    box-shadow: 5px 10px #0e171d;
+}
+
+h6 {
+    font-weight: bold;
+}
+
+#citiesImg,
+#placeName,
+#imageNow {
+    display: flex;
+    flex-direction: row;
+    justify-content: center/space-around/space-between;
+}
+
+h4 {
+   text-align: center;
+   font-weight: bold;
+}
+
+.card {
+    margin: 20px 10px;
+}
+
+/* .cardBody {
+    font-size: small;
+    width:100%;
+    height: 180px;
+    background-color: #e6e0d0;
+} */
+
+.forecast {
+    margin: 10px;
+}
+/* need to mess with this footer, make it stick to bottom of page */
+/* footer {
+    text-align: center;
+    padding: 3px;
+    height: 50px;
+    background-color: #956d2e;
+    color: #0e171d;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 4rem;       
+} */
